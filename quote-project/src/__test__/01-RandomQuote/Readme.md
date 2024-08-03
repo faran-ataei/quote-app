@@ -2,14 +2,13 @@
 
 In this component, you should test RandomQuoteCard component and fetch data from an API.
 
-This component is responsible for fetching a random quote and its author from an API, and then displaying them on the page.
+You have to mock the Fetch data and check to see if the data inside this component is the same as the data you mocked. 
 
-
-We want to test a random quote and an author and show them in the page.
 
 You should render component and write this test code:
 
-1. Fetch data from an API
-2. Render the fetched data on the page
-3. Verifies that the quote element is rendered on the page after fetching data.
+1. The author part of the data should include the author's name
+
+2. The data citation field must contain the text of the citation
+
 

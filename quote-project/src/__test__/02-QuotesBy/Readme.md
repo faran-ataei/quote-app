@@ -1,7 +1,8 @@
 ## Quotes By AUTHOR
 
-In this component you should test QuotesBy component and know the author name.
+This component gets the name of the author from props and displays it on the screen.
+
+You should test QuotesBy component and know the author name.
 
 
-1. Render component
-2. test author name in component
+1. Now check the author name is displayed in this component or not

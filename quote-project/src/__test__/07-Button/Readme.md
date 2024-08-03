@@ -1,7 +1,6 @@
 ## Button
 
-We want to test a button and show it in the page.
+This component takes the text parts of the button and the click handle
 
-1. test the text in the button
-2. test button is rendered in the page
-4. test button how many times is rendered when we click one time
+1. Check if the text you are sending is the same as the button text
+2. Check if the function we have given from props is called on click or not
