@@ -3,4 +3,4 @@
 
 Render component InputSearchAuthor and test if form submit mockFunction should call once.
 
-Hint: you can use .toHaveBeenCalledTimes() for mockFunction
+Hint: you can use .toHaveBeenCalledTimes() for mockFunction (10 point)

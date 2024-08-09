@@ -24,4 +24,4 @@ const data = [
 
 ```
 
-1. Now check to see that there is a card for each data
+1. Now check to see that there is a card for each data. (10 point)

@@ -7,8 +7,8 @@ You have to mock the Fetch data and check to see if the data inside this compone
 
 You should render component and write this test code:
 
-1. The author part of the data should include the author's name
+1. The author part of the data should include the author's name. (10 point)
 
-2. The data citation field must contain the text of the citation
+2. The data citation field must contain the text of the citation. (10 point)
 
-
+3. Fetch data and check quote is showing in page. (10 point)
